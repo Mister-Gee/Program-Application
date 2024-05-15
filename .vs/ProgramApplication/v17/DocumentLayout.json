@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|c:\\users\\lenevo\\documents\\projects\\programapplication\\programapplication\\mapper\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|solutionrelative:programapplication\\mapper\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|c:\\users\\lenevo\\documents\\projects\\programapplication\\programapplication\\controllers\\programapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|solutionrelative:programapplication\\controllers\\programapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|c:\\users\\lenevo\\documents\\projects\\programapplication\\programapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|solutionrelative:programapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|c:\\users\\lenevo\\documents\\projects\\programapplication\\programapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|solutionrelative:programapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|c:\\users\\lenevo\\documents\\projects\\programapplication\\programapplication\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55113D23-EA28-4E67-80CD-2733AF0C39BE}|ProgramApplication\\ProgramApplication.csproj|solutionrelative:programapplication\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Mapper\\MapperProfiles.cs",
+              "RelativeDocumentMoniker": "ProgramApplication\\Mapper\\MapperProfiles.cs",
+              "ToolTip": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Mapper\\MapperProfiles.cs",
+              "RelativeToolTip": "ProgramApplication\\Mapper\\MapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:46:40.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProgramApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProgramApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:39:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Controllers\\ProgramApplicationController.cs",
+              "RelativeDocumentMoniker": "ProgramApplication\\Controllers\\ProgramApplicationController.cs",
+              "ToolTip": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Controllers\\ProgramApplicationController.cs",
+              "RelativeToolTip": "ProgramApplication\\Controllers\\ProgramApplicationController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:38:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Program.cs",
+              "RelativeToolTip": "ProgramApplication\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:33:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ProgramApplication\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\LENEVO\\Documents\\Projects\\ProgramApplication\\ProgramApplication\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ProgramApplication\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:31:42.359Z",
+              "EditorCaption": ""
             }
           ]
         }
